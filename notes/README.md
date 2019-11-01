@@ -6,4 +6,5 @@ Main purpose of this folder is to embody various notes useful for further develo
 ## Tutorials and other useful links
 
 
-- [MarkDown Language syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [MarkDown Language syntax - github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [MarkDown Language cheatsheet] (https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
